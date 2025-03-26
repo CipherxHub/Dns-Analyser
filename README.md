@@ -56,12 +56,6 @@ The **DNS Traffic Analyzer** is a Python-based tool designed to capture, analyze
 
 ---
 
-## Example PDF Report
-
-![PDF Report Example](https://via.placeholder.com/800x400?text=PDF+Report+Preview)
-
----
-
 ## Remarks and Insights
 
 - **High Entropy Domains**: Indicates potential DNS tunneling or DGA (Domain Generation Algorithm) activity.
