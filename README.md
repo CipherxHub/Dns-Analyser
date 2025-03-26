@@ -20,8 +20,8 @@ The **DNS Traffic Analyzer** is a Python-based tool designed to capture, analyze
 
 1. Clone the repository:
      ```bash
-     git clone https://github.com/your-repo/dns-analyzer.git
-     cd dns-analyzer
+     git clone [https://github.com/CipherxHub/Dns-Analyser]
+     cd Dns-Analyzer
      ```
 
 2. Install dependencies:
@@ -87,16 +87,6 @@ pip install scapy numpy reportlab
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-## Developed By
-
-**Group 5**  
-Contributors:  
-- [Contributor 1](https://github.com/contributor1)  
-- [Contributor 2](https://github.com/contributor2)  
-- [Contributor 3](https://github.com/contributor3)
 
 ---
 
