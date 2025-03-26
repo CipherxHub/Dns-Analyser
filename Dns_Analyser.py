@@ -129,7 +129,7 @@ def analyze_pcap():
     print(f"Report saved to {REPORT_FILE}")
 
 if __name__ == "__main__":
-    print("Developed by Group 5")
+    print("Developed by CipherxHub")
     duration = int(input("Enter the duration (in seconds) for DNS packet capture: "))
     capture_dns_packets(duration)
     analyze_pcap()
